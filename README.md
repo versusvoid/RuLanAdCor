@@ -1,6 +1,13 @@
 # RuLanAdCor
 Russian Language Advertisement Corpus
 
+--
+##Note
+Yandex closed catalog from automatic requests, so this part won't work now. I'll try 
+to find another source of samples.
+
+--
+
 Corpus is automatically extracted from, uh, Internets, from two sources for now: 
 sites in [Yandex Catalog](yaca.yandex.ru) and Apple AppStore. All samples are 
 publicly available, no problems should arise when using corpus for research
